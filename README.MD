@@ -4,7 +4,7 @@ Será escrito do zero utilizando:
 
 - HTML5
 - Bootstrap4
-- MySQL
-- PHP7.4
+- MySQL pdo
+- PHP8.1
 
 
